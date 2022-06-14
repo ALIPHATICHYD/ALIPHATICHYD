@@ -11,3 +11,4 @@ Here are some basic things to know about ALIPHATIC 😋;
 - 📫 How to reach me: Email: adegokefuad1@gmail.com, Phone- +2347053539948,
 - 😄 Pronouns: He/Him/His,
 - ⚡ Fun fact: I love Gaming.
+![Green Teal Geometric Modern Computer Programmer Code Editor Quotes for Instagram Post](https://user-images.githubusercontent.com/105937740/173700433-ffa83d55-a8a3-4486-86b5-b6b7f343c43e.png)
