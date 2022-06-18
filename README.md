@@ -1,6 +1,6 @@
-Hi there 👋 
+Hi there 👋🏾
 
-Here are some basic things to know about ALIPHATIC 😋;
+Here are some basic things to know about ALIPHATIC 👽👳🏾‍♂️;
 
 
 - 🔭 I’m currently working on acquiring more skills,
