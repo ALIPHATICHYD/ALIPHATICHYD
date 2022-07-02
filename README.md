@@ -1,5 +1,7 @@
 Hi there 👋🏾
 
+Welcome To ALIPHATIC'S Profile😀
+
 Here are some basic things to know about ALIPHATIC 👽👳🏾‍♂️;
 
 
