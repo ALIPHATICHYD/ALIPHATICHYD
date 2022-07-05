@@ -1,6 +1,6 @@
 Hi there 👋🏾
 
-Welcome To <h3>ALIPHATIC'S</h3> Profile😀
+<span>Welcome To <h3>ALIPHATIC'S</h3> Profile😀</span>
 
 <a href="https://www.linkedin.com/in/fuad-ajibola-5a0034166/"><img src="images/linkedin.png" width="30" /></a>
 <a href="https://twitter.com/AdegokeFuad"><img src="images/twitter.png" width="30" /></a>
