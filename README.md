@@ -2,7 +2,7 @@ Hi there 👋🏾
 
 <span>Welcome To ALIPHATIC'S Profile😀</span>
 
-#### Links To Socialmedia 
+#### Connect with me 
 <a href="https://www.linkedin.com/in/fuad-ajibola-5a0034166/"><img src="images/linkedin.png" width="30" /></a>
 <a href="https://twitter.com/AdegokeFuad"><img src="images/twitter.png" width="30" /></a>
 
