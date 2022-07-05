@@ -19,6 +19,7 @@ Here are some basic things to know about ALIPHATIC 👽👳🏾‍♂️;
 
 #### Languages and Tools
 <code><img src="images/github.png" width="30" title="GitHub" /></code>
+<code><img src="images/javascript.png" width="30" title="JavaScript" /></code>
 
 
 #### Lifestyle
