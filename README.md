@@ -23,7 +23,7 @@ Here are some basic things to know about ALIPHATIC 👽👳🏾‍♂️;
 <code><img src="images/css.jpg" width="30" title="CSS" /></code>
 <code><img src="images/" width="30" title="SASS" /></code>
 <code><img src="images/javascript.png" width="30" title="JavaScript" /></code>
-<code><img src="images/react.png" width="30" title="React" /></code>
+<code><img src="images/react.png" width="50" title="React" /></code>
 <code><img src="images/visualstudio.svg" width="30" title="Visual Studio Code" /></code>
 <code><img src="images/git.png" width="30" title="Git" /></code>
 
