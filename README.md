@@ -19,7 +19,7 @@ Here are some basic things to know about ALIPHATIC 👽👳🏾‍♂️;
 - ⚡ Fun fact: I love Gaming.
 
 #### Languages and Tools
-<code><img src="images/github.png" width="30" title="GitHub" /></code>
+<code><img src="images/github.jpg" width="30" title="GitHub" /></code>
 <code><img src="images/html.jpg" width="30" title="HTML" /></code>
 <code><img src="images/css.jpg" width="30" title="CSS" /></code>
 <code><img src="images/sass.jpg" width="30" title="SASS" /></code>
