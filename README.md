@@ -18,7 +18,7 @@ Here are some basic things to know about ALIPHATIC 👽👳🏾‍♂️;
 - ⚡ Fun fact: I love Gaming.
 
 #### Languages and Tools
-
+<code><img src="images/github.png" width="30" title="GitHub" /></code>
 
 
 #### Lifestyle
