@@ -19,7 +19,7 @@ Here are some basic things to know about ALIPHATIC 👽👳🏾‍♂️;
 
 #### Languages and Tools
 <code><img src="images/github.png" width="30" title="GitHub" /></code>
-<code><img src="images/html.png" width="30" title="HTML" /></code>
+<code><img src="images/html.jpg" width="30" title="HTML" /></code>
 <code><img src="images/css.jpg" width="30" title="CSS" /></code>
 <code><img src="images/sass.png" width="30" title="SASS" /></code>
 <code><img src="images/javascript.png" width="30" title="JavaScript" /></code>
