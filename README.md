@@ -23,21 +23,21 @@ Here are some basic things to know about ALIPHATIC 👽👳🏾‍♂️;
 - ⚡ Fun fact: I love Gaming.
 
 #### Core Languages
-<code><img src="images/html.jpg" width="40" title="HTML" /></code>
-<code><img src="images/css.jpg" width="40" title="CSS" /></code>
-<code><img src="images/sass.jpg" width="40" title="SASS" /></code>
-<code><img src="images/javascript.png" width="40" title="JavaScript" /></code>
+<code><img src="images/html.jpg" width="60" title="HTML" /></code>
+<code><img src="images/css.jpg" width="60" title="CSS" /></code>
+<code><img src="images/sass.jpg" width="60" title="SASS" /></code>
+<code><img src="images/javascript.png" width="60" title="JavaScript" /></code>
 
 #### Frameworks
 <code><img src="images/B.png" width="60" title="Bootstrap" /></code>
-<code><img src="images/Bulma.png" width="80" title="Bulma" /></code>
+<code><img src="images/Bulma.png" width="90" title="Bulma" /></code>
 <code><img src="images/react.png" width="70" title="React" /></code>
 <code><img src="images/R.png" width="50" title="NodeJS" /></code>
 
 #### Tools
-<code><img src="images/visualstudio.svg" width="40" title="Visual Studio Code" /></code>
-<code><img src="images/github.jpg" width="40" title="GitHub" /></code>
-<code><img src="images/git.jpg" width="40" title="Git" /></code>
+<code><img src="images/visualstudio.svg" width="60" title="Visual Studio Code" /></code>
+<code><img src="images/github.jpg" width="60" title="GitHub" /></code>
+<code><img src="images/git.jpg" width="60" title="Git" /></code>
 
 #### Lifestyle
 ![Green Teal Geometric Modern Computer Programmer Code Editor Quotes for Instagram Post](https://user-images.githubusercontent.com/105937740/174781153-79d156a6-8e4a-4d8b-aa75-880be17afeac.jpg)
