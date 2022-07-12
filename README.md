@@ -31,8 +31,8 @@ Here are some basic things to know about ALIPHATIC 👽👳🏾‍♂️;
 
 #### Frameworks
 <code><img src="images/B.png" width="50" title="Bootstrap" /></code>
-<code><img src="images/Bulma.png" width="50" title="Bulma" /></code>
-<code><img src="images/react.png" width="50" title="React" /></code>
+<code><img src="images/Bulma.png" width="60" title="Bulma" /></code>
+<code><img src="images/react.png" width="70" title="React" /></code>
 <code><img src="images/R.png" width="50" title="NodeJS" /></code>
 
 #### Tools
