@@ -30,10 +30,10 @@ Here are some basic things to know about ALIPHATIC 👽👳🏾‍♂️;
 <code><img src="images/C#.png" width="40" title="C#" /></code>
 
 #### Frameworks
-
-
+<code><img src="images/B.png" width="50" title="Bootstrap" /></code>
+<code><img src="images/Bulma.png" width="50" title="Bulma" /></code>
 <code><img src="images/react.png" width="50" title="React" /></code>
-
+<code><img src="images/R.png" width="50" title="NodeJS" /></code>
 
 #### Tools
 <code><img src="images/visualstudio.svg" width="40" title="Visual Studio Code" /></code>
