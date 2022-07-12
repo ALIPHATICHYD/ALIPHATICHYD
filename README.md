@@ -27,6 +27,7 @@ Here are some basic things to know about ALIPHATIC 👽👳🏾‍♂️;
 <code><img src="images/css.jpg" width="40" title="CSS" /></code>
 <code><img src="images/sass.jpg" width="40" title="SASS" /></code>
 <code><img src="images/javascript.png" width="40" title="JavaScript" /></code>
+<code><img src="images/C#.png" width="40" title="C#" /></code>
 
 #### Frameworks
 
