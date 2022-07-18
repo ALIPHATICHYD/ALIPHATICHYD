@@ -32,6 +32,8 @@ Here are some basic things to know about ALIPHATIC 👽👳🏾‍♂️;
 <code><img src="images/Bulma.png" width="110" title="Bulma" /></code>
 <code><img src="images/react.png" width="80" title="React" /></code>
 <code><img src="images/R.png" width="50" title="NodeJS" /></code>
+<code><img src="images/api.png" width="50" title="API" /></code>
+<code><img src="images/json.png" width="50" title="JSON" /></code>
 <code><img src="images/nodemon.png" width="80" title="Nodemon" /></code>
 <code><img src="images/express.png" width="65" title="Express" /></code>
 
