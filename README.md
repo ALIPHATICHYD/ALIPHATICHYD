@@ -26,11 +26,11 @@ Here are some basic things to know about ALIPHATIC 👽👳🏾‍♂️;
 <code><img src="images/css.jpg" width="60" title="CSS" /></code>
 <code><img src="images/sass.jpg" width="60" title="SASS" /></code>
 <code><img src="images/javascript.png" width="60" title="JavaScript" /></code>
-<code><img src="images/vue.jpg" width="50" title="VueJS" /></code>
 
 #### Frameworks
 <code><img src="images/B.png" width="70" title="Bootstrap" /></code>
 <code><img src="images/Bulma.png" width="110" title="Bulma" /></code>
+<code><img src="images/vue.png" width="50" title="VueJS" /></code>
 <code><img src="images/react.png" width="80" title="React" /></code>
 <code><img src="images/api.jpg" width="70" title="API" /></code>
 <code><img src="images/json.png" width="70" title="JSON" /></code>
