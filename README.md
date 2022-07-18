@@ -33,7 +33,7 @@ Here are some basic things to know about ALIPHATIC 👽👳🏾‍♂️;
 <code><img src="images/react.png" width="80" title="React" /></code>
 <code><img src="images/R.png" width="50" title="NodeJS" /></code>
 <code><img src="images/nodemon.png" width="80" title="Nodemon" /></code>
-<code><img src="images/express.png" width="70" title="Express" /></code>
+<code><img src="images/express.png" width="65" title="Express" /></code>
 
 #### Tools
 <code><img src="images/visualstudio.svg" width="60" title="Visual Studio Code" /></code>
