@@ -6,7 +6,7 @@ Hi there 👋🏾
 #### Connect with me 
 <a href="https://www.linkedin.com/in/fuad-ajibola-5a0034166/"><img src="images/linkedin.png" width="60" /></a>
 <a href="https://twitter.com/AdegokeFuad"><img src="images/twitter.png" width="60" /></a>
-<a href="https://twitter.com/AdegokeFuad"><img src="images/ig" width="60" /></a>
+<a href=""><img src="images/ig.png" width="60" /></a>
 
 <img align="right" alt="Coding" width="370" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
 
