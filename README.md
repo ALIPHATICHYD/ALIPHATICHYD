@@ -1,5 +1,6 @@
 Hi there 👋🏾
 <div align="right" class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="fuad-ajibola-5a0034166" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ng.linkedin.com/in/fuad-ajibola-5a0034166?trk=profile-badge">Fuad Ajibola</a></div>
+
               
 <span>Welcome To ALIPHATIC'S Profile👽</span>
 
