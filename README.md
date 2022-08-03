@@ -4,7 +4,7 @@ Hi there 👋🏾
 <span>Welcome To ALIPHATIC'S Profile👽</span>
 
 ###   **What's my current role in tech?** </h2>
-       { fullStackDeveloper | Frontend Engineer } 
+       { fullStackDeveloper | Frontend Engineer | Product Designer} 
 
 
 #### Connect with me 
