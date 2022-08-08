@@ -26,7 +26,7 @@ Here are some basic things to know about ALIPHATIC 👽👳🏾‍♂️;
 - 😄 Pronouns: He/Him/His,
 - ⚡ Fun fact: I love Gaming.
 
-#### Core Languages
+#### My Core Languages
 <code><img src="images/html.jpg" width="60" title="HTML" /></code>
 <code><img src="images/css.jpg" width="60" title="CSS" /></code>
 <code><img src="images/sass.jpg" width="60" title="SASS" /></code>
