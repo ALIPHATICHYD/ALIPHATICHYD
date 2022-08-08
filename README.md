@@ -32,7 +32,7 @@ Here are some basic things to know about ALIPHATIC 👽👳🏾‍♂️;
 <code><img src="images/sass.jpg" width="60" title="SASS" /></code>
 <code><img src="images/javascript.png" width="60" title="JavaScript" /></code>
 
-#### Frameworks
+#### Frameworks I Use
 <code><img src="images/B.png" width="70" title="Bootstrap" /></code>
 <code><img src="images/Bulma.png" width="110" title="Bulma" /></code>
 <code><img src="images/vue.png" width="100" title="VueJS" /></code>
