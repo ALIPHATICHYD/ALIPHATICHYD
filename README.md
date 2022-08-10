@@ -51,16 +51,8 @@ Here are some basic things to know about ALIPHATIC 👽👳🏾‍♂️;
 <code><img src="images/R.png" width="50" title="NodeJS" /></code>
 <code><img src="images/postman.png" width="60" title="Postman API" /></code>
 
-#### Lifestyle
-![Green Teal Geometric Modern Computer Programmer Code Editor Quotes for Instagram Post](https://user-images.githubusercontent.com/105937740/174781153-79d156a6-8e4a-4d8b-aa75-880be17afeac.jpg)
 
 
-
-
-
-<h3 align="center">er}</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aliphatichyd&label=Profile%20views&color=0e75b6&style=flat" alt="aliphatichyd" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aliphatichyd" alt="aliphatichyd" /></a> </p>
 
@@ -80,4 +72,9 @@ Here are some basic things to know about ALIPHATIC 👽👳🏾‍♂️;
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aliphatichyd&show_icons=true&locale=en" alt="aliphatichyd" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aliphatichyd&" alt="aliphatichyd" /></p>
+
+
+#### Lifestyle
+![Green Teal Geometric Modern Computer Programmer Code Editor Quotes for Instagram Post](https://user-images.githubusercontent.com/105937740/174781153-79d156a6-8e4a-4d8b-aa75-880be17afeac.jpg)
+
 
