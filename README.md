@@ -60,8 +60,6 @@ Here are some basic things to know about ALIPHATIC 👽👳🏾‍♂️;
 <p align="left">
 <a href="https://twitter.com/adegokefuad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adegokefuad" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/adegoke fuad ajibola" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adegoke fuad ajibola" height="30" width="40" /></a>
-<a href="https://fb.com/adegoke fuad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="adegoke fuad" height="30" width="40" /></a>
-
 
  
             
