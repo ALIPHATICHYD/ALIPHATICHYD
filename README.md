@@ -56,13 +56,7 @@ Here are some basic things to know about ALIPHATIC 👽👳🏾‍♂️;
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aliphatichyd" alt="aliphatichyd" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/adegokefuad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adegokefuad" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/adegoke fuad ajibola" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adegoke fuad ajibola" height="30" width="40" /></a>
-
- 
-            
+       
 #### Lifestyle
 ![pc](https://user-images.githubusercontent.com/105937740/186015907-bd8b7db8-f875-454b-bf1a-36177129aa42.gif)
 
