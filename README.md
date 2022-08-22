@@ -65,7 +65,7 @@ Here are some basic things to know about ALIPHATIC 👽👳🏾‍♂️;
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg"  
+ 
             
 #### Lifestyle
 
