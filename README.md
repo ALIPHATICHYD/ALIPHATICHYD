@@ -1,7 +1,7 @@
 <h1>Hi there 👋🏾</h1>
 <div align="right" class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="fuad-ajibola-5a0034166" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/adegoke-fuad-ajibola-5a0034166/"> Adegoke Fuad Ajibola</a></div>
             
-<h1><span>Welcome To ALIPHATIC'S Profile👽</span></h1>
+<h1>Welcome To ALIPHATIC'S Profile👽</h1>
 
 ###   **What's my current role in tech?** </h2>
        { fullStackDeveloper | Product Manager | Product Designer} 
