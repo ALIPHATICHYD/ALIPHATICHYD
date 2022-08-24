@@ -7,7 +7,6 @@
        { fullStackDeveloper | Product Manager | Product Designer} 
 
 
-
 #### Connect with me 
 <a href="https://www.linkedin.com/in/adegoke-fuad-ajibola-5a0034166/"><img src="images/linkedin.png" width="60" /></a>
 <a href="https://twitter.com/AdegokeFuad"><img src="images/twitter.png" width="60" /></a>
