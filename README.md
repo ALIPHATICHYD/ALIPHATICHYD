@@ -8,6 +8,7 @@
 
 ###   **Founder/C.E.O of ANTAPEX** </h2>
 #### Follow ANTAPEX via;
+<a href=""><img src="images/github.png" width="60" /></a>
 <a href="https://www.linkedin.com/company/the-antapex/"><img src="images/linkedin.png" width="60" /></a>
 
 
