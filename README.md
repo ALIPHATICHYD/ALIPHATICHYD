@@ -6,6 +6,7 @@
 ###   **What's my current role in tech?** </h2>
        { fullStackDeveloper | Product Manager | Product Designer} 
 
+###   **Founder/C.E.O of ANTAPEX** </h2>
 
 #### Connect with me 
 <a href="https://www.linkedin.com/in/adegoke-fuad-ajibola-5a0034166/"><img src="images/linkedin.png" width="60" /></a>
@@ -17,10 +18,10 @@
 #### About
 Here are some basic things to know about ALIPHATIC 👽👳🏾‍♂️;
 
-- 🔭 I’m currently working on acquiring more skills,
+- 🔭 I’m currently working on acquiring new skills,
 - 🌱 I’m currently learning Fullstack Web Development,
 - 👯 I’m looking to collaborate on projects,
-<!--- 🤔 I’m looking for help with--> 
+- 🤔 I’m looking for help with expanding my community
 - 💬 Ask me about anything,
 - 📫 How to reach me: Email: adegokefuad1@gmail.com, Phone: +2347053539948,
 - 😄 Pronouns: He/Him/His,
