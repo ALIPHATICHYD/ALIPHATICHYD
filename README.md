@@ -7,6 +7,10 @@
        { fullStackDeveloper | Product Manager | Product Designer} 
 
 ###   **Founder/C.E.O of ANTAPEX** </h2>
+#### Follow ANTAPEX via;
+<a href="https://www.linkedin.com/company/the-antapex/"><img src="images/linkedin.png" width="60" /></a>
+
+
 
 #### Connect with me 
 <a href="https://www.linkedin.com/in/adegoke-fuad-ajibola-5a0034166/"><img src="images/linkedin.png" width="60" /></a>
