@@ -5,7 +5,7 @@
 
 
 ###   **What's my current role in tech?** </h2>
-       { fullStackDeveloper | Product Manager | Data Scientist } 
+       { fullStackDeveloper | Product Manager | Product Designer | Data Scientist } 
 
 ###   **Founder/C.E.O of ANTAPEX** </h2>
 #### Follow ANTAPEX via;
