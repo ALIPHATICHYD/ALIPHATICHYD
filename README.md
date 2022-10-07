@@ -54,7 +54,7 @@ Here are some basic things to know about ALIPHATIC 👽👳🏾‍♂️;
 <code><img src="images/visualstudio.svg" width="60" title="Visual Studio Code" /></code>
 <code><img src="images/github.jpg" width="60" title="GitHub" /></code>
 <code><img src="images/git.jpg" width="60" title="Git" /></code>
-<code><img src="images/power.png" width="80" title="Powershell" /></code>
+<!-- <code><img src="images/power.png" width="80" title="Powershell" /></code> -->
 <code><img src="images/command.png" width="70" title="Commandprompt" /></code>
 <code><img src="images/R.png" width="50" title="NodeJS" /></code>
 <code><img src="images/postman.png" width="60" title="Postman API" /></code>
