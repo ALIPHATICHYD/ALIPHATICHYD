@@ -25,7 +25,7 @@
 #### About
 Here are some basic things to know about ALIPHATIC 👽👳🏾‍♂️;
 
-- 🔭 I’m currently working on acquiring new skills,
+- 🔭 I’m currently working on acquiring DSA skills,
 - 🌱 I’m currently exploring Fullstack Web Development,
 - 👯 I’m looking for people to contribute to my projects.
 - 🤔 I’m looking for help with expanding my community
