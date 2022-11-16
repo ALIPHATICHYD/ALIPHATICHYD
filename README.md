@@ -28,7 +28,7 @@ Here are some basic things to know about ALIPHATIC 👽👳🏾‍♂️;
 - 🔭 I’m currently working on acquiring DSA skills,
 - 🌱 I’m currently exploring Fullstack Web Development,
 - 👯 I’m looking for people to contribute to my projects.
-- 🤔 I’m looking for help with expanding my community
+- 🤔 I’m looking for help with expanding my community,
 - 💬 Ask me about anything🌚,
 - 📫 How to reach me: Email: adegokefuad1@gmail.com, Phone: +2347053539948,
 - 😄 Pronouns: He/Him/His,
