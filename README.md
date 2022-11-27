@@ -4,7 +4,6 @@
 <h1>Welcome To ALIPHATIC'S Profile👽</h1>
 
 
-
 ###   **What's my current role in tech?** </h2>
        { fullStackDeveloper | Blockchain Todler } 
 
