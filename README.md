@@ -40,7 +40,7 @@ Here are some basic things to know about ALIPHATIC 👽👳🏾‍♂️;
 <code><img src="images/python.png" width="60" title="Python" /></code>
 <code><img src="images/dart.png" width="65" title="Dart" /></code>
 
-#### Frameworks & Libraries I Use
+#### Frameworks/Libraries I Use
 <code><img src="images/B.png" width="70" title="Bootstrap" /></code>
 <code><img src="images/Bulma.png" width="110" title="Bulma" /></code>  <code><img src="images/jQuery.png" width="70" title="jQuery" /></code>  
 <code><img src="images/react.png" width="80" title="React" /></code>
