@@ -47,6 +47,7 @@ Here are some basic things to know about ALIPHATIC 👽👳🏾‍♂️;
 <code><img src="images/json.png" width="70" title="JSON" /></code>
 <code><img src="images/nodemon.png" width="80" title="Nodemon" /></code>
 <code><img src="images/express.png" width="65" title="Express" /></code>
+<code><img src="images/flutter.png" width="65" title="Flutter" /></code>
 
 #### Tools I Use
 <code><img src="images/visualstudio.svg" width="60" title="Visual Studio Code" /></code>
