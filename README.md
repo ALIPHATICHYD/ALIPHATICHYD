@@ -61,9 +61,8 @@ Here are some basic things to know about ALIPHATIC 👽👳🏾‍♂️;
 <code><img src="images/R.png" width="50" title="NodeJS" /></code>
 <code><img src="images/postman.png" width="60" title="Postman API" /></code>
 <code><img src="images/figma.jpeg" width="60" title="Figma" /></code>
-       
-       
-       
+             
+      
        
        
 #### Lifestyle
