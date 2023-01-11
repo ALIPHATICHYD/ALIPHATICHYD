@@ -5,7 +5,6 @@
 
 
 
-
 ###   **What's my current role in tech?** </h2>
        { fullStackDeveloper | Blockchain Todler } 
 
