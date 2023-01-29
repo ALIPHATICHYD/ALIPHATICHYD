@@ -6,7 +6,7 @@
 
 
 ###   **What's my current role in tech?** </h2>
-       { fullStackDeveloper | Blockchain Todler } 
+       { fullStackDeveloper } 
 
 ###   **Founder/C.E.O of ANTAPEX** </h2>
 #### Follow ANTAPEX via;
