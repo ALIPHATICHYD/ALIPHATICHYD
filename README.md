@@ -6,7 +6,7 @@
 
 
 ###   **What's my current role in tech?** </h2>
-       { softWare Engineer | Public Speaker } 
+       { softWare Engineer | Public Speaker | Product Manager } 
 
 ###   **Founder/C.E.O of ANTAPEX** </h2>
 #### Follow ANTAPEX via;
