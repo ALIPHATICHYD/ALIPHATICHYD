@@ -70,3 +70,11 @@ Here are some basic things to know about ALIPHATIC 👽👳🏾‍♂️;
 #### Lifestyle
 ![pc](https://user-images.githubusercontent.com/105937740/186015907-bd8b7db8-f875-454b-bf1a-36177129aa42.gif)
 
+
+
+
+
+
+#### GitHub Stats
+
+[![Jesus's github stats](https://github-readme-stats.vercel.app/api?username=ALIPHATICHYD&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
