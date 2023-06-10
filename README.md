@@ -39,6 +39,7 @@ Here are some basic things to know about ALIPHATIC 👽👳🏾‍♂️;
 <code><img src="images/css.jpg" width="60" title="CSS" /></code>
 <code><img src="images/sass.jpg" width="60" title="SASS" /></code>
 <code><img src="images/javascript.png" width="60" title="JavaScript" /></code>
+<code><img src="images/typescript.png" width="60" title="TypeScript" /></code>
 <code><img src="images/python.png" width="60" title="Python" /></code>
 <code><img src="images/dart.png" width="65" title="Dart" /></code>
 
@@ -59,6 +60,7 @@ Here are some basic things to know about ALIPHATIC 👽👳🏾‍♂️;
 <code><img src="images/git.jpg" width="60" title="Git" /></code>
 <code><img src="images/android-studio.png" width="60" title="Android Studio" /></code>
 <code><img src="images/x-code.png" width="60" title="Xcode" /></code>
+<code><img src="images/docker.png" width="60" title="Docker" /></code>
 <!-- <code><img src="images/power.png" width="80" title="Powershell" /></code> -->
 <code><img src="images/command.png" width="70" title="Commandprompt" /></code>
 <code><img src="images/R.png" width="50" title="NodeJS" /></code>
