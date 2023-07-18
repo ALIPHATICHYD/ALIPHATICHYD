@@ -8,7 +8,7 @@
 ###   **What's my current role in tech?** </h2>
        { softWare Engineer | Public Speaker | Product Manager } 
 
-###   **Founder/C.E.O of ANTAPEX** </h2>
+###   **Founder of ANTAPEX** </h2>
 #### Follow ANTAPEX via;
 <a href="https://github.com/ANTAPEX"><img src="images/github.png" width="60" /></a>
 <a href="https://www.linkedin.com/company/the-antapex/"><img src="images/linkedin.png" width="60" /></a>
@@ -26,8 +26,8 @@
 Here are some basic things to know about ALIPHATIC 👽👳🏾‍♂️;
 
 - 🔭 I’m currently working on acquiring DSA skills,
-- 🌱 I’m currently exploring Fullstack Web Development,
-- 👯 I’m looking for people to contribute to my projects.
+- 🌱 I’m currently exploring Software Engineering,
+- 👯 I’m looking for people to contribute to my open-source projects.
 - 🤔 I’m looking for help with expanding my community,
 - 💬 Ask me about anything🌚,
 - 📫 How to reach me: Email: adegokefuad1@gmail.com, Phone: +2347053539948,
