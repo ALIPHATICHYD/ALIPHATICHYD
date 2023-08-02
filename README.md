@@ -1,6 +1,6 @@
 <h1>Hello World 👋🏾</h1>
 
-<div align="right" class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="fuad-ajibola-5a0034166" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/adegoke-fuad-ajibola-5a0034166/"> Adegoke Fuad Ajibola</a></div>
+<div align="right" class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="fuad-ajibola-5a0034166" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/adegoke-fuad-ajibola-5a0034166/"> Fuad ALIPHATIC Adegoke</a></div>
 
     
 <h1>Welcome To ALIPHATIC'S Profile👽</h1>
