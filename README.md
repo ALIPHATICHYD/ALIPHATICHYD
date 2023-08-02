@@ -63,6 +63,7 @@ Here are some basic things to know about ALIPHATIC 👽👳🏾‍♂️;
 <code><img src="images/git.jpg" width="60" title="Git" /></code>
 <code><img src="images/android-studio.png" width="60" title="Android Studio" /></code>
 <code><img src="images/x-code.png" width="60" title="Xcode" /></code>
+<code><img src="images/firebase.png" width="60" title="Firebase" /></code>
 <code><img src="images/docker.png" width="60" title="Docker" /></code>
 <!-- <code><img src="images/power.png" width="80" title="Powershell" /></code> -->
 <code><img src="images/command.png" width="70" title="Commandprompt" /></code>
