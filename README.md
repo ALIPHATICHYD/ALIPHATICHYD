@@ -19,7 +19,7 @@
 <a href="https://www.linkedin.com/in/adegoke-fuad-ajibola-5a0034166/"><img src="images/linkedin.png" width="60" /></a>
 <a href="https://twitter.com/AdegokeFuad"><img src="images/twitter.png" width="60" /></a>
 <a href="https://www.instagram.com/adegokefuad1/"><img src="images/ig.png" width="70" /></a>
-<a href=""><img src="" width=""></a>
+<!--<a href=""><img src="" width=""></a> -->
 
 <img align="right" alt="Coding" width="370" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
 
