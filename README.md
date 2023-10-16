@@ -36,15 +36,15 @@ Here are some basic things to know about ALIPHATIC 👽👳🏾‍♂️;
 - ⚡ Fun fact: I love Gaming🎮.
 
 #### My Core Languages
-<code><img src="images/html.jpg" width="60" title="HTML" /></code>
-<code><img src="images/css.jpg" width="60" title="CSS" /></code>
-<code><img src="images/sass.jpg" width="60" title="SASS" /></code>
 <code><img src="images/javascript.png" width="60" title="JavaScript" /></code>
 <code><img src="images/typescript.png" width="60" title="TypeScript" /></code>
 <code><img src="images/python.png" width="60" title="Python" /></code>
 <code><img src="images/dart.png" width="65" title="Dart" /></code>
 
 #### Frameworks/Libraries I Use
+<code><img src="images/html.jpg" width="60" title="HTML" /></code>
+<code><img src="images/css.jpg" width="60" title="CSS" /></code>
+<code><img src="images/sass.jpg" width="60" title="SASS" /></code>
 <code><img src="images/tailwind.png" width="70" title="Tailwind" /></code>
 <code><img src="images/B.png" width="70" title="Bootstrap" /></code>
 <code><img src="images/Bulma.png" width="110" title="Bulma" /></code>  <code><img src="images/jQuery.png" width="65" title="jQuery" /></code>  
