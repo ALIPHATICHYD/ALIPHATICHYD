@@ -74,7 +74,7 @@ Here are some basic things to know about ALIPHATIC 👽👳🏾‍♂️;
              
              
        
-#### Lifestyle
+<!-- #### Lifestyle
 <!-- ![pc](https://user-images.githubusercontent.com/105937740/186015907-bd8b7db8-f875-454b-bf1a-36177129aa42.gif) -->
 <!-- <img align="center" alt="Coding" width="800s" src="images/bring-deals.JPG"/> -->
 
