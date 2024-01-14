@@ -79,6 +79,3 @@ Here are some basic things to know about ALIPHATIC 👽👳🏾‍♂️;
 <!-- <img align="center" alt="Coding" width="800s" src="images/bring-deals.JPG"/> -->
 
 
-
-
-
