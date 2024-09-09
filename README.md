@@ -5,7 +5,7 @@
 <h1>Welcome To ALIPHATIC'S Profile👽</h1>
 
 ###   **What's my current role in tech?** </h2>
-       { softWare Engineer | Product Manager | Public Speaker } 
+       { softWare Engineer } 
 
 ###   **Founder of ANTAPEX** </h2>
 #### Follow ANTAPEX via;
