@@ -7,7 +7,7 @@
 ###   **What's my current role in tech?** </h2>
        { softWare Engineer } 
 
-###   **Founder of ANTAPEX** </h2>
+<!-- ###   **Founder of ANTAPEX** </h2> -->
 #### Follow ANTAPEX via;
 <a href="https://github.com/ANTAPEX"><img src="images/github.png" width="60" /></a>
 <a href="https://www.linkedin.com/company/the-antapex/"><img src="images/linkedin.png" width="60" /></a>
