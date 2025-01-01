@@ -15,7 +15,7 @@
 
 #### Connect with me 
 <a href="https://www.linkedin.com/in/adegoke-fuad-ajibola-5a0034166/"> <img src="images/linkedin.png" width="60" /> </a>
-<a href="https://twitter.com/ALIPHATICHYD"> <img src="images/twitter.png" width="60" /> </a>
+<a href="https://twitter.com/ALIPHATIC_F"> <img src="images/twitter.png" width="60" /> </a>
 <a href="https://www.instagram.com/aliphatic_hyd/"> <img src="images/ig.png" width="70" /> </a>
 <!--<a href=""><img src="" width=""></a> -->
 
