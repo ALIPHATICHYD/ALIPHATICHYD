@@ -56,7 +56,7 @@ Here are some basic things to know about ALIPHATIC; 👽👳🏾‍♂️
 <code><img src="images/prism.png" width="65" title="Prisma" /></code>
 <code><img src="images/flutter.png" width="65" title="Flutter" /></code>
 
-#### Tools I Use
+<!--#### Tools I Use
 <code><img src="images/visualstudio.svg" width="60" title="Visual Studio Code" /></code>
 <code><img src="images/github.jpg" width="60" title="GitHub" /></code>
 <code><img src="images/git.jpg" width="60" title="Git" /></code>
@@ -65,10 +65,10 @@ Here are some basic things to know about ALIPHATIC; 👽👳🏾‍♂️
 <code><img src="images/firebase.png" width="60" title="Firebase" /></code>
 <code><img src="images/docker.png" width="60" title="Docker" /></code>
 <!-- <code><img src="images/power.png" width="80" title="Powershell" /></code> -->
-<code><img src="images/command.png" width="70" title="Commandprompt" /></code>
+<!--<code><img src="images/command.png" width="70" title="Commandprompt" /></code>
 <code><img src="images/R.png" width="50" title="NodeJS" /></code>
 <code><img src="images/postman.png" width="60" title="Postman API" /></code>
-<code><img src="images/figma.jpeg" width="60" title="Figma" /></code>
+<code><img src="images/figma.jpeg" width="60" title="Figma" /></code> -->
              
              
        
