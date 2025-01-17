@@ -38,6 +38,7 @@ Here are some basic things to know about ALIPHATIC; 👽👳🏾‍♂️
 <code><img src="images/typescript.png" width="60" title="TypeScript" /></code>
 <code><img src="images/python.png" width="60" title="Python" /></code>
 <code><img src="images/dart.png" width="65" title="Dart" /></code>
+<code><img src="" width ="" title="PHP" /></code>
 
 #### Frameworks/Libraries I Use
 <code><img src="images/html.jpg" width="60" title="HTML" /></code>
@@ -55,7 +56,6 @@ Here are some basic things to know about ALIPHATIC; 👽👳🏾‍♂️
 <code><img src="images/express.png" width="65" title="Express" /></code>
 <code><img src="images/prism.png" width="65" title="Prisma" /></code>
 <code><img src="images/flutter.png" width="65" title="Flutter" /></code>
-<code><img src="" width ="" title="PHP" /></code>
 
 <!--#### Tools I Use
 <code><img src="images/visualstudio.svg" width="60" title="Visual Studio Code" /></code>
