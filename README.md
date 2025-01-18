@@ -25,7 +25,7 @@
 Here are some basic things to know about ALIPHATIC; 👽👳🏾‍♂️
 
 - 🔭 I’m currently working on acquiring DSA skills,
-- 🌱 I’m currently studying Systems Engineering,
+- 🌱 I’m a Systems Engineering Major,
 - 👯 I’m looking for people to join the communities I'm building.
 - 🤔 I can help with getting into open-source,
 - 💬 Ask me about anything, 🌚
