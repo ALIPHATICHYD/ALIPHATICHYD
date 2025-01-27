@@ -20,9 +20,9 @@
 <img align="right" alt="Coding" width="370" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
 
 #### About
-Here are some basic things to know about ALIPHATIC; 👽👳🏾‍♂️
+Here are some basic things to know about ALIPHATIC; 👳🏾‍♂
 
-- 🔭 I’m currently working on acquiring DSA skills,
+- 🔭 I’m currently exploring the Space Tech Ecosystem, 👽
 - 🌱 I’m a Systems Engineering Major,
 - 👯 I’m looking for people to join the communities I'm building.
 - 🤔 I can help you with getting into open-source,
