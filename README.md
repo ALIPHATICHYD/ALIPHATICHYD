@@ -19,6 +19,7 @@
 <a href="https://www.instagram.com/aliphatic_hyd/"> <img src="images/ig.png" width="70" /> </a>
 <img align="right" alt="Coding" width="370" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
 
+
 #### About
 Here are some basic things to know about ALIPHATIC; 👽👳🏾‍♂
 
@@ -69,7 +70,3 @@ Here are some basic things to know about ALIPHATIC; 👽👳🏾‍♂
 <code><img src="images/R.png" width="50" title="NodeJS" /></code>
 <code><img src="images/postman.png" width="60" title="Postman API" /></code>
 <code><img src="images/figma.jpeg" width="60" title="Figma" /></code> -->
-             
-
-
-
