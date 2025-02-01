@@ -14,7 +14,7 @@
 
 
 #### Connect with me 
-<a href="https://www.linkedin.com/in/adegoke-fuad-ajibola-5a0034166/"> <img src="images/linkedin.png" width="60" /> </a>
+<a href="https://www.linkedin.com/in/adegoke-fuad-ajibola/"> <img src="images/linkedin.png" width="60" /> </a>
 <a href="https://twitter.com/ALIPHATIC_F"> <img src="images/twitter.png" width="60" /> </a>
 <a href="https://www.instagram.com/aliphatic_hyd/"> <img src="images/ig.png" width="70" /> </a>
 <img align="right" alt="Coding" width="370" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
