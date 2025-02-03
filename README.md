@@ -21,7 +21,7 @@
 
 
 #### About
-Here are some basic things to know about ALIPHATIC; 👽👳🏾‍♂
+Here are some basic things to know about ALIPHATIC; 👽
 
 - 🔭 I’m currently exploring the Space Tech Ecosystem, 
 - 🌱 I’m a Systems Engineering Major,
