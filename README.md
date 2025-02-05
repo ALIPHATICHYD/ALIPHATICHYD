@@ -28,7 +28,7 @@ Here are some basic things to know about ALIPHATIC; 👽
 - 👯 I’m looking for people to join the communities I'm building.
 - 🤔 I can help you with getting into open-source,
 - 💬 Ask me about anything, 🌚
-- 📫 How to reach me: Email: adegokefuad1@gmail.com, Phone: +2347053539948,
+- 📫 How to reach me; Email: adegokefuad1@gmail.com, Phone: +2347053539948,
 - 😄 Pronouns: He/Him/His,
 - ⚡ Fun fact: I love Gaming & Writing. 🎮
 
