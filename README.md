@@ -35,12 +35,14 @@ Here are some basic things to know about ALIPHATIC; 👽
 [![My github stats](https://github-readme-stats.vercel.app/api?username=ALIPHATICHYD&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats) 
 
 #### My Core Languages
+
+<a href="https://github.com/dotandev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALIPHATICHYD&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> 
 <code><img src="images/javascript.png" width="60" title="JavaScript" /></code>
 <code><img src="images/typescript.png" width="60" title="TypeScript" /></code>
 <code><img src="images/python.png" width="60" title="Python" /></code>
 <code><img src="images/dart.png" width="65" title="Dart" /></code>
 <code><img src="" width ="" title="PHP" /></code>
-
+<!--
 #### Frameworks/Libraries I Use
 <code><img src="images/html.jpg" width="60" title="HTML" /></code>
 <code><img src="images/css.jpg" width="60" title="CSS" /></code>
@@ -49,7 +51,7 @@ Here are some basic things to know about ALIPHATIC; 👽
 <code><img src="images/B.png" width="70" title="Bootstrap" /></code>
 <code><img src="images/Bulma.png" width="110" title="Bulma" /></code>  
 <code><img src="images/react.png" width="80" title="React" /></code>
- <code><img src="images/next.svg" width="80" title="Next" /></code>
+ <code><img src="images/next.svg" width="80" title="Next" /></code> -->
 
 <!--
 <code><img src="images/api.jpg" width="70" title="API" /></code>
