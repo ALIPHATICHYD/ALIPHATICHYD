@@ -30,7 +30,7 @@ Here are some basic things to know about ALIPHATIC; 👽
 - 💬 Ask me about anything, 🌚
 - 📫 How to reach me; Email: adegokefuad1@gmail.com, Phone: +2347053539948,
 - 😄 Pronouns: He/Him/His,
-- ⚡ Fun fact: I love Gaming & Writing.
+- ⚡ Fun fact: I love Gaming, Swimming & Writing.
   
 [![My github stats](https://github-readme-stats.vercel.app/api?username=ALIPHATICHYD&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats) 
 
