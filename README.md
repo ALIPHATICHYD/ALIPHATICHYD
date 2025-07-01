@@ -21,7 +21,7 @@
 
 
 #### About Me
-Here are some basic things to know about ALIPHATIC; 👽
+Here are some basic things to know about ALIPHATIC: 👽
 
 - 🔭 I’m currently exploring the Space Tech Ecosystem, 
 - 🌱 I’m a Systems Engineering Major,
@@ -30,13 +30,13 @@ Here are some basic things to know about ALIPHATIC; 👽
 - 💬 Ask me about anything, 🌚
 - 📫 How to reach me; Email: adegokefuad1@gmail.com, Phone: +2347053539948,
 - 😄 Pronouns: He/Him/His,
-- ⚡ Fun fact: I love Gaming, Swimming & Writing.
+- ⚡ Fun fact: I love Gaming, Swimming, & Writing.
   
 [![My github stats](https://github-readme-stats.vercel.app/api?username=ALIPHATICHYD&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats) 
 
 #### My Core Languages
-<!--
-<a href="https://github.com/ALIPHATICHYD" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALIPHATICHYD&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>  -->
+
+<a href="https://github.com/ALIPHATICHYD" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALIPHATICHYD&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> <!--  -->
 
 <code><img src="images/javascript.png" width="60" title="JavaScript" /></code>
 <code><img src="images/typescript.png" width="60" title="TypeScript" /></code>
