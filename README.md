@@ -7,12 +7,6 @@
 ###   **My current role in tech...** </h2>
        { Engineering Manager } 
 
-<!-- ###   **Founder of ANTAPEX** </h2> 
-#### Follow ANTAPEX via;
-<a href="https://github.com/ANTAPEX"><img src="images/github.png" width="60" /></a>
-<a href="https://www.linkedin.com/company/the-antapex/"><img src="images/linkedin.png" width="60" /></a> -->
-
-
 #### Connect with me 
 <a href="https://www.linkedin.com/in/adegoke-fuad-ajibola/"> <img src="images/linkedin.png" width="60" /> </a>
 <a href="https://twitter.com/ALIPHATIC_F"> <img src="images/twitter.png" width="60" /> </a>
@@ -35,9 +29,6 @@ Here are some basic things to know about ALIPHATIC: 👽
 [![My github stats](https://github-readme-stats.vercel.app/api?username=ALIPHATICHYD&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats) 
 
 #### My Core Languages
-
-<!--
-<a href="https://github.com/ALIPHATICHYD" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALIPHATICHYD&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>   --> 
 
 <code><img src="images/javascript.png" width="60" title="JavaScript" /></code>
 <code><img src="images/typescript.png" width="60" title="TypeScript" /></code>
