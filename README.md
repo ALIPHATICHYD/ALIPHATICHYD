@@ -43,7 +43,9 @@ Here are some basic things to know about ALIPHATIC: 👽
 <code><img src="images/typescript.png" width="60" title="TypeScript" /></code>
 <code><img src="images/python.png" width="60" title="Python" /></code>
 <code><img src="images/dart.png" width="65" title="Dart" /></code>
+<!--
 <code><img src="" width ="" title="PHP" /></code>
+--> 
 <!--
 #### Frameworks/Libraries I Use
 <code><img src="images/html.jpg" width="60" title="HTML" /></code>
