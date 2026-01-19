@@ -5,7 +5,7 @@
 <h1>Welcome To ALIPHATIC'S Profile👽</h1>
 
 ###   **My current role in tech...** </h2>
-       { Engineering Manager } 
+       { Software Engineer || Community & Programs Manager } 
 
 #### Connect with me 
 <a href="https://www.linkedin.com/in/adegoke-fuad-ajibola/"> <img src="images/linkedin.png" width="60" /> </a>
