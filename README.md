@@ -22,7 +22,7 @@ Here are some basic things to know about ALIPHATIC: 👽
 - 👯 I’m looking for people to join the communities I'm building.
 - 🤔 I can help you with getting into open-source,
 - 💬 Ask me about anything, 🌚
-- 📫 How to reach me; Email: adegokefuad1@gmail.com, Phone: +2347053539948,
+- 📫 How to reach me; Email: adegokefuad1@gmail.com, Phone: +2348133363313,
 - 😄 Pronouns: He/Him/His,
 - ⚡ Fun fact: I love Gaming, Swimming, & Writing.
   
@@ -33,8 +33,8 @@ Here are some basic things to know about ALIPHATIC: 👽
 <code><img src="images/javascript.png" width="60" title="JavaScript" /></code>
 <code><img src="images/typescript.png" width="60" title="TypeScript" /></code>
 <code><img src="images/python.png" width="60" title="Python" /></code>
-<code><img src="images/dart.png" width="65" title="Dart" /></code>
 <!--
+<code><img src="images/dart.png" width="65" title="Dart" /></code>
 <code><img src="" width ="" title="PHP" /></code>
 --> 
 <!--
