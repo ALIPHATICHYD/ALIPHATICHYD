@@ -26,7 +26,7 @@ Here are some basic things to know about ALIPHATIC: 👽
 - 😄 Pronouns: He/Him/His,
 - ⚡ Fun fact: I love Gaming, Swimming, & Writing.
   
-[![ALIPHATIC's GitHub stats](https://github-readme-stats.vercel.app/apiALIPHATICHYD=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![ALIPHATIC's GitHub stats](https://github-readme-stats.vercel.app/api/ALIPHATICHYD=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 #### My Core Languages
 
